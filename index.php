@@ -21,7 +21,9 @@
         <li>
             <a href="add.php">Add user</a>
         </li>
-    </ul>
+        <li>
+            <a href="fake-login.php.php">Fake Login</a>
+        </li>
     </div>
 </body>
 </html>
